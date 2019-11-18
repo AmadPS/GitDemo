@@ -5,7 +5,10 @@ welcome biatch
 
 class myClass {
 
-psvm{}
+	psvm{
+
+		print("You are here")
+	}
 
 }
 
