@@ -1,5 +1,5 @@
-this is my first git demo...!
-welcome biatch
+//this is my first git demo...!
+//welcome biatch
 
 @Amad Yaca
 class myClass {
