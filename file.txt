@@ -4,6 +4,7 @@
 @Amad Yaca
 class myClass {
 	psvm{
+		myMethod();
 		print("You are here " + yourPosition);
 	}
 }
