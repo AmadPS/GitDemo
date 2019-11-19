@@ -4,6 +4,6 @@ welcome biatch
 @Amad Yaca
 class myClass {
 	psvm{
-		print("You are here")
+		print("You are here " + position)
 	}
 }
